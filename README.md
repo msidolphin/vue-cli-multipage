@@ -1,6 +1,4 @@
-# shopping-cart
-
-> A Vue.js project
+# vue-cli-multipage> A Vue.js project
 
 ## Build Setup
 
